@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EasyCrop</string>
+    <string name="centre_text">Select an image</string>
+    <string name="choose_image">Choose an image from the gallery</string>
+    <string name="rotate_image">Rotate the selected image</string>
+    <string name="crop_image">Crop the selected part of the image</string>
+    <string name="flip_image">Flip the image</string>
+</resources>
