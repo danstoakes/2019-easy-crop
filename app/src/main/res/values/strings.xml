@@ -5,4 +5,13 @@
     <string name="rotate_image">Rotate the selected image</string>
     <string name="crop_image">Crop the selected part of the image</string>
     <string name="flip_image">Flip the image</string>
+
+    <string name="crop_type_header">Select a cropping method</string>
+    <string name="button_classic">Classic</string>
+    <string name="button_freehand">Freehand</string>
+
+    <string name="rationale_header">Permission required</string>
+    <string name="text_description">Storage access is needed to save or share images.</string>
+    <string name="button_allow">Allow</string>
+    <string name="button_cancel">Cancel</string>
 </resources>
