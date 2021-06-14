@@ -2,7 +2,7 @@
 
 EasyCrop is an android application written in Java which allows for simple image cropping techniques. There are two supported cropping types: classic and freehand. As well as cropping techniques, rotation, mirroring, saving, and sharing functionalities are also available.
 
-A video demonstration is available <a href="https://www.youtube.com/watch?v=80t8-ZdTZSI">here</a>.
+A video demonstration is available <a href="https://youtube.com/shorts/arnt9iyJB8Q?feature=share">here</a>.
 
 This application has a minimum SDK version of 21 and a target version of 28.
 
